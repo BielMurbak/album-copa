@@ -1,0 +1,3978 @@
+[
+  {
+    "codigo": "00",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC1",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC2",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC3",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC4",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC5",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC6",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC7",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC8",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC9",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC10",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC11",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC12",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC13",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC14",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC15",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC16",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC17",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC18",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "FWC19",
+    "nome": "Fifa World Cup"
+  },
+  {
+    "codigo": "MEX1",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX2",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX3",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX4",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX5",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX6",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX7",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX8",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX9",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX10",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX11",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX12",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX13",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX14",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX15",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX16",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX17",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX18",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX19",
+    "nome": "México"
+  },
+  {
+    "codigo": "MEX20",
+    "nome": "México"
+  },
+  {
+    "codigo": "RSA1",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA2",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA3",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA4",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA5",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA6",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA7",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA8",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA9",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA10",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA11",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA12",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA13",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA14",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA15",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA16",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA17",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA18",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA19",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "RSA20",
+    "nome": "África do Sul"
+  },
+  {
+    "codigo": "KOR1",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR2",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR3",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR4",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR5",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR6",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR7",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR8",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR9",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR10",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR11",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR12",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR13",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR14",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR15",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR16",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR17",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR18",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR19",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "KOR20",
+    "nome": "Coreia do Sul"
+  },
+  {
+    "codigo": "CZE1",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE2",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE3",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE4",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE5",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE6",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE7",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE8",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE9",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE10",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE11",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE12",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE13",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE14",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE15",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE16",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE17",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE18",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE19",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CZE20",
+    "nome": "Rep. Tcheca"
+  },
+  {
+    "codigo": "CAN1",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN2",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN3",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN4",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN5",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN6",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN7",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN8",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN9",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN10",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN11",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN12",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN13",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN14",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN15",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN16",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN17",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN18",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN19",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "CAN20",
+    "nome": "Canadá"
+  },
+  {
+    "codigo": "BIH1",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH2",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH3",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH4",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH5",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH6",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH7",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH8",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH9",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH10",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH11",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH12",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH13",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH14",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH15",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH16",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH17",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH18",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH19",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "BIH20",
+    "nome": "Bósnia"
+  },
+  {
+    "codigo": "QAT1",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT2",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT3",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT4",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT5",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT6",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT7",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT8",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT9",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT10",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT11",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT12",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT13",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT14",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT15",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT16",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT17",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT18",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT19",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "QAT20",
+    "nome": "Catar"
+  },
+  {
+    "codigo": "SUI1",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI2",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI3",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI4",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI5",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI6",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI7",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI8",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI9",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI10",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI11",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI12",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI13",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI14",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI15",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI16",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI17",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI18",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI19",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "SUI20",
+    "nome": "Suíça"
+  },
+  {
+    "codigo": "BRA1",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA2",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA3",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA4",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA5",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA6",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA7",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA8",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA9",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA10",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA11",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA12",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA13",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA14",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA15",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA16",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA17",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA18",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA19",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "BRA20",
+    "nome": "Brasil"
+  },
+  {
+    "codigo": "MAR1",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR2",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR3",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR4",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR5",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR6",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR7",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR8",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR9",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR10",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR11",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR12",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR13",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR14",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR15",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR16",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR17",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR18",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR19",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "MAR20",
+    "nome": "Marrocos"
+  },
+  {
+    "codigo": "HAI1",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI2",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI3",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI4",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI5",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI6",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI7",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI8",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI9",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI10",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI11",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI12",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI13",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI14",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI15",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI16",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI17",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI18",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI19",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "HAI20",
+    "nome": "Haiti"
+  },
+  {
+    "codigo": "SCO1",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO2",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO3",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO4",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO5",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO6",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO7",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO8",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO9",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO10",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO11",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO12",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO13",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO14",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO15",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO16",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO17",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO18",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO19",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "SCO20",
+    "nome": "Escócia"
+  },
+  {
+    "codigo": "USA1",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA2",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA3",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA4",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA5",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA6",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA7",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA8",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA9",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA10",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA11",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA12",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA13",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA14",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA15",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA16",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA17",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA18",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA19",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "USA20",
+    "nome": "Estados Unidos"
+  },
+  {
+    "codigo": "PAR1",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR2",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR3",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR4",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR5",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR6",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR7",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR8",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR9",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR10",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR11",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR12",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR13",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR14",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR15",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR16",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR17",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR18",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR19",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "PAR20",
+    "nome": "Paraguai"
+  },
+  {
+    "codigo": "AUS1",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS2",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS3",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS4",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS5",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS6",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS7",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS8",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS9",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS10",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS11",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS12",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS13",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS14",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS15",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS16",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS17",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS18",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS19",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "AUS20",
+    "nome": "Austrália"
+  },
+  {
+    "codigo": "TUR1",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR2",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR3",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR4",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR5",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR6",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR7",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR8",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR9",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR10",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR11",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR12",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR13",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR14",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR15",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR16",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR17",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR18",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR19",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "TUR20",
+    "nome": "Turquia"
+  },
+  {
+    "codigo": "GER1",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER2",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER3",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER4",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER5",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER6",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER7",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER8",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER9",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER10",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER11",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER12",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER13",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER14",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER15",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER16",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER17",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER18",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER19",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "GER20",
+    "nome": "Alemanha"
+  },
+  {
+    "codigo": "CUW1",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW2",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW3",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW4",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW5",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW6",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW7",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW8",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW9",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW10",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW11",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW12",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW13",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW14",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW15",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW16",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW17",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW18",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW19",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CUW20",
+    "nome": "Curaçao"
+  },
+  {
+    "codigo": "CIV1",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV2",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV3",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV4",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV5",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV6",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV7",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV8",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV9",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV10",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV11",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV12",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV13",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV14",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV15",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV16",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV17",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV18",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV19",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "CIV20",
+    "nome": "Costa do Marfim"
+  },
+  {
+    "codigo": "ECU1",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU2",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU3",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU4",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU5",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU6",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU7",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU8",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU9",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU10",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU11",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU12",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU13",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU14",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU15",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU16",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU17",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU18",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU19",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "ECU20",
+    "nome": "Equador"
+  },
+  {
+    "codigo": "NED1",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED2",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED3",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED4",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED5",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED6",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED7",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED8",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED9",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED10",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED11",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED12",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED13",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED14",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED15",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED16",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED17",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED18",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED19",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "NED20",
+    "nome": "Holanda"
+  },
+  {
+    "codigo": "JPN1",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN2",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN3",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN4",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN5",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN6",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN7",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN8",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN9",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN10",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN11",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN12",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN13",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN14",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN15",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN16",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN17",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN18",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN19",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "JPN20",
+    "nome": "Japão"
+  },
+  {
+    "codigo": "SWE1",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE2",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE3",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE4",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE5",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE6",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE7",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE8",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE9",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE10",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE11",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE12",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE13",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE14",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE15",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE16",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE17",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE18",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE19",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "SWE20",
+    "nome": "Suécia"
+  },
+  {
+    "codigo": "TUN1",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN2",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN3",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN4",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN5",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN6",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN7",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN8",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN9",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN10",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN11",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN12",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN13",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN14",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN15",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN16",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN17",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN18",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN19",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "TUN20",
+    "nome": "Tunísia"
+  },
+  {
+    "codigo": "BEL1",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL2",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL3",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL4",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL5",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL6",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL7",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL8",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL9",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL10",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL11",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL12",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL13",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL14",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL15",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL16",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL17",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL18",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL19",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "BEL20",
+    "nome": "Bélgica"
+  },
+  {
+    "codigo": "EGY1",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY2",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY3",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY4",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY5",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY6",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY7",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY8",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY9",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY10",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY11",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY12",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY13",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY14",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY15",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY16",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY17",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY18",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY19",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "EGY20",
+    "nome": "Egito"
+  },
+  {
+    "codigo": "IRN1",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN2",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN3",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN4",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN5",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN6",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN7",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN8",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN9",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN10",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN11",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN12",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN13",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN14",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN15",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN16",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN17",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN18",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN19",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "IRN20",
+    "nome": "Irã"
+  },
+  {
+    "codigo": "NZL1",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL2",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL3",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL4",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL5",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL6",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL7",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL8",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL9",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL10",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL11",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL12",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL13",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL14",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL15",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL16",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL17",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL18",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL19",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "NZL20",
+    "nome": "Nova Zelândia"
+  },
+  {
+    "codigo": "ESP1",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP2",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP3",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP4",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP5",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP6",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP7",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP8",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP9",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP10",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP11",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP12",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP13",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP14",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP15",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP16",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP17",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP18",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP19",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "ESP20",
+    "nome": "Espanha"
+  },
+  {
+    "codigo": "CPV1",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV2",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV3",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV4",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV5",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV6",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV7",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV8",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV9",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV10",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV11",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV12",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV13",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV14",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV15",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV16",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV17",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV18",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV19",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "CPV20",
+    "nome": "Cabo Verde"
+  },
+  {
+    "codigo": "KSA1",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA2",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA3",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA4",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA5",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA6",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA7",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA8",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA9",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA10",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA11",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA12",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA13",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA14",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA15",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA16",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA17",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA18",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA19",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "KSA20",
+    "nome": "Arábia Saudita"
+  },
+  {
+    "codigo": "URU1",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU2",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU3",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU4",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU5",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU6",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU7",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU8",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU9",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU10",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU11",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU12",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU13",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU14",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU15",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU16",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU17",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU18",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU19",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "URU20",
+    "nome": "Uruguai"
+  },
+  {
+    "codigo": "FRA1",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA2",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA3",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA4",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA5",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA6",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA7",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA8",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA9",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA10",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA11",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA12",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA13",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA14",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA15",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA16",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA17",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA18",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA19",
+    "nome": "França"
+  },
+  {
+    "codigo": "FRA20",
+    "nome": "França"
+  },
+  {
+    "codigo": "SEN1",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN2",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN3",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN4",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN5",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN6",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN7",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN8",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN9",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN10",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN11",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN12",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN13",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN14",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN15",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN16",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN17",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN18",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN19",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "SEN20",
+    "nome": "Senegal"
+  },
+  {
+    "codigo": "IRQ1",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ2",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ3",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ4",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ5",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ6",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ7",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ8",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ9",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ10",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ11",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ12",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ13",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ14",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ15",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ16",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ17",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ18",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ19",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "IRQ20",
+    "nome": "Iraque"
+  },
+  {
+    "codigo": "NOR1",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR2",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR3",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR4",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR5",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR6",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR7",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR8",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR9",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR10",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR11",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR12",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR13",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR14",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR15",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR16",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR17",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR18",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR19",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "NOR20",
+    "nome": "Noruega"
+  },
+  {
+    "codigo": "ARG1",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG2",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG3",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG4",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG5",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG6",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG7",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG8",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG9",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG10",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG11",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG12",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG13",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG14",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG15",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG16",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG17",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG18",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG19",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ARG20",
+    "nome": "Argentina"
+  },
+  {
+    "codigo": "ALG1",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG2",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG3",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG4",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG5",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG6",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG7",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG8",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG9",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG10",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG11",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG12",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG13",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG14",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG15",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG16",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG17",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG18",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG19",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "ALG20",
+    "nome": "Argélia"
+  },
+  {
+    "codigo": "AUT1",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT2",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT3",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT4",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT5",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT6",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT7",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT8",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT9",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT10",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT11",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT12",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT13",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT14",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT15",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT16",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT17",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT18",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT19",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "AUT20",
+    "nome": "Áustria"
+  },
+  {
+    "codigo": "JOR1",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR2",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR3",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR4",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR5",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR6",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR7",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR8",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR9",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR10",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR11",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR12",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR13",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR14",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR15",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR16",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR17",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR18",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR19",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "JOR20",
+    "nome": "Jordânia"
+  },
+  {
+    "codigo": "POR1",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR2",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR3",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR4",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR5",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR6",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR7",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR8",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR9",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR10",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR11",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR12",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR13",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR14",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR15",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR16",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR17",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR18",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR19",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "POR20",
+    "nome": "Portugal"
+  },
+  {
+    "codigo": "COD1",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD2",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD3",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD4",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD5",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD6",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD7",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD8",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD9",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD10",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD11",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD12",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD13",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD14",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD15",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD16",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD17",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD18",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD19",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "COD20",
+    "nome": "Congo"
+  },
+  {
+    "codigo": "UZB1",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB2",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB3",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB4",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB5",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB6",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB7",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB8",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB9",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB10",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB11",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB12",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB13",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB14",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB15",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB16",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB17",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB18",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB19",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "UZB20",
+    "nome": "Uzbequistão"
+  },
+  {
+    "codigo": "COL1",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL2",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL3",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL4",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL5",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL6",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL7",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL8",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL9",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL10",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL11",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL12",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL13",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL14",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL15",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL16",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL17",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL18",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL19",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "COL20",
+    "nome": "Colômbia"
+  },
+  {
+    "codigo": "ENG1",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG2",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG3",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG4",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG5",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG6",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG7",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG8",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG9",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG10",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG11",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG12",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG13",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG14",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG15",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG16",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG17",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG18",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG19",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "ENG20",
+    "nome": "Inglaterra"
+  },
+  {
+    "codigo": "CRO1",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO2",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO3",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO4",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO5",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO6",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO7",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO8",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO9",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO10",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO11",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO12",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO13",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO14",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO15",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO16",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO17",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO18",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO19",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "CRO20",
+    "nome": "Croácia"
+  },
+  {
+    "codigo": "GHA1",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA2",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA3",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA4",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA5",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA6",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA7",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA8",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA9",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA10",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA11",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA12",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA13",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA14",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA15",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA16",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA17",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA18",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA19",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "GHA20",
+    "nome": "Gana"
+  },
+  {
+    "codigo": "PAN1",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN2",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN3",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN4",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN5",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN6",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN7",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN8",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN9",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN10",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN11",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN12",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN13",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN14",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN15",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN16",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN17",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN18",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN19",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "PAN20",
+    "nome": "Panamá"
+  },
+  {
+    "codigo": "CC1",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC2",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC3",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC4",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC5",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC6",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC7",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC8",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC9",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC10",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC11",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC12",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC13",
+    "nome": "Coca-Cola"
+  },
+  {
+    "codigo": "CC14",
+    "nome": "Coca-Cola"
+  }
+]
