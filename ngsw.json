@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1780458125262,
+  "timestamp": 1780502648402,
   "index": "/album-copa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/album-copa/favicon.ico",
         "/album-copa/index.html",
-        "/album-copa/main-K7BLICWX.js",
+        "/album-copa/main-TTJJKORS.js",
         "/album-copa/manifest.webmanifest",
         "/album-copa/polyfills-5CFQRCPP.js",
         "/album-copa/styles-AE77NRB6.css"
@@ -27,15 +27,18 @@
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "urls": [],
+      "urls": [
+        "/album-copa/assets/data/figurinhas.json"
+      ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "/album-copa/assets/data/figurinhas.json": "39b27f1eaa845b29b04e297e42aaf0cf664c45a9",
     "/album-copa/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/album-copa/index.html": "91de9dc6529835747f546067bd5a3434be0c45c3",
-    "/album-copa/main-K7BLICWX.js": "3e4f94f32899efb3dac410b82546c224e8fb7d77",
+    "/album-copa/index.html": "5dba6ee1bbdcb376f193a6199d5d0fbb794070c3",
+    "/album-copa/main-TTJJKORS.js": "8e47a71831534ab31c0f4a67f08f8a875cf81244",
     "/album-copa/manifest.webmanifest": "854c98404037a47886fd1b1d2609a3f5d03a9d76",
     "/album-copa/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/album-copa/styles-AE77NRB6.css": "36bdc91ae40907aaabe1d2fb88e9336f4ddd9269"
