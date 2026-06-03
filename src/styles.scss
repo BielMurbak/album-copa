@@ -1,1 +1,53 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+:root, [data-tema="dark"] {
+  --bg: #0f0f13;
+  --topbar-bg: #18181f;
+  --card-bg: #1e1e26;
+  --card-hover-bg: #262630;
+  --border: #2e2e3a;
+  --text: #f0f0f5;
+  --text-muted: #7a7a90;
+  --accent: #facc15;
+  --accent-hover: #fbbf24;
+  --btn-bg: #facc15;
+  --btn-text: #0f0f13;
+  --input-bg: #1e1e26;
+  --progress-bg: #2e2e3a;
+  --progress-fill: #facc15;
+  --stat-bg: #1e1e26;
+}
+
+[data-tema="light"] {
+  --bg: #f4f4f8;
+  --topbar-bg: #ffffff;
+  --card-bg: #ffffff;
+  --card-hover-bg: #f0f0f8;
+  --border: #e0e0ea;
+  --text: #111118;
+  --text-muted: #6b6b80;
+  --accent: #7c3aed;
+  --accent-hover: #6d28d9;
+  --btn-bg: #7c3aed;
+  --btn-text: #ffffff;
+  --input-bg: #ffffff;
+  --progress-bg: #e0e0ea;
+  --progress-fill: #7c3aed;
+  --stat-bg: #ffffff;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color 0.3s, color 0.3s;
+}

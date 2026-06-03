@@ -1,0 +1,15 @@
+<header class="topbar">
+  <div class="topbar-brand">
+    <span class="trophy">🏆</span>
+    <div class="brand-text">
+      <span class="brand-title">Álbum Copa 2026</span>
+      <span class="brand-sub">Panini · FIFA World Cup™</span>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <button class="reset-btn" (click)="resetar()" title="Resetar álbum">🗑️</button>
+    <button class="tema-btn" (click)="temaToggle.emit()">
+      {{ tema === 'dark' ? '☀️' : '🌙' }}
+    </button>
+  </div>
+</header>

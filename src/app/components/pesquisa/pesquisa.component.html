@@ -1,0 +1,14 @@
+<div class="pesquisa-wrapper">
+  <div class="pesquisa-container">
+    <span class="icone-lupa">🔍</span>
+    <input
+      placeholder="Buscar por código ou seleção… (ex: BRA, Brasil, FWC)"
+      [(ngModel)]="pesquisa"
+      (input)="pesquisar()"
+      (keydown.enter)="pesquisar()"
+    />
+    @if (pesquisa) {
+      <button class="btn-limpar" (click)="limpar()">✕</button>
+    }
+  </div>
+</div>

@@ -1,0 +1,10 @@
+<div class="filtro-wrapper">
+  @for (opcao of opcoes; track opcao.valor) {
+    <button
+      class="filtro-btn"
+      [class.ativo]="service.filtro() === opcao.valor"
+      (click)="service.setFiltro(opcao.valor)">
+      {{ opcao.label }}
+    </button>
+  }
+</div>

@@ -1,0 +1,34 @@
+<div class="stats-container">
+
+  <div class="stat-card total">
+    <span class="stat-icon">📦</span>
+    <span class="value">{{ totalFigurinhas }}</span>
+    <span class="label">Total</span>
+  </div>
+
+  <div class="stat-card tenho">
+    <span class="stat-icon">✅</span>
+    <span class="value">{{ totalPossuidas }}</span>
+    <span class="label">Tenho</span>
+  </div>
+
+  <div class="stat-card faltam">
+    <span class="stat-icon">❌</span>
+    <span class="value">{{ totalFaltantes }}</span>
+    <span class="label">Faltam</span>
+  </div>
+
+  <div class="stat-card conclusao">
+    <span class="stat-icon">🏅</span>
+    <span class="value">{{ percentual }}%</span>
+    <span class="label">Conclusão</span>
+  </div>
+
+</div>
+
+<div class="progress-wrapper">
+  <div class="progress-bar">
+    <div class="progress-fill" [style.width.%]="percentual"></div>
+  </div>
+  <span class="progress-label">{{ percentual }}% completo</span>
+</div>

@@ -1,0 +1,38 @@
+.filtro-wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, max-content);
+  gap: 8px;
+  padding: 0 24px 16px;
+
+  @media (max-width: 480px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.filtro-btn {
+  padding: 8px 20px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+
+  @media (max-width: 480px) {
+    padding: 8px 4px;
+    font-size: 0.75rem;
+  }
+
+  &:hover {
+    border-color: var(--accent);
+    color: var(--text);
+  }
+
+  &.ativo {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--btn-text);
+  }
+}

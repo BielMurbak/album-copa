@@ -1,0 +1,23 @@
+<div class="album">
+  @for (grupo of grupos(); track grupo.nome) {
+    <div class="grupo">
+      <h2 class="grupo-titulo">{{ grupo.nome }}</h2>
+      <div class="grupo-cards">
+        @for (figurinha of grupo.itens; track figurinha.codigo) {
+          <div class="card" [class.obtida]="figurinha.quantidade > 0" (click)="figurinha.quantidade === 0 && incrementar(figurinha)">
+            @if (figurinha.quantidade > 1) {
+              <span class="badge">×{{ figurinha.quantidade }}</span>
+            }
+            <strong class="codigo">{{ figurinha.codigo }}</strong>
+            @if (figurinha.quantidade > 0) {
+              <div class="controles">
+                <button class="btn-ctrl minus" (click)="$event.stopPropagation(); decrementar(figurinha)">−</button>
+                <button class="btn-ctrl plus" (click)="$event.stopPropagation(); incrementar(figurinha)">+</button>
+              </div>
+            }
+          </div>
+        }
+      </div>
+    </div>
+  }
+</div>

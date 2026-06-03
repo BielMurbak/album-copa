@@ -1,0 +1,120 @@
+.stats-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  padding: 20px 24px 8px;
+
+  @media (max-width: 480px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.stat-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 16px 12px;
+  border-radius: 14px;
+  border: 1px solid transparent;
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: default;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  }
+
+  &.total {
+    background: linear-gradient(135deg, #1e293b, #0f172a);
+    border-color: #334155;
+  }
+
+  &.tenho {
+    background: linear-gradient(135deg, #14532d, #052e16);
+    border-color: #166534;
+  }
+
+  &.faltam {
+    background: linear-gradient(135deg, #7f1d1d, #450a0a);
+    border-color: #991b1b;
+  }
+
+  &.conclusao {
+    background: linear-gradient(135deg, #78350f, #451a03);
+    border-color: #92400e;
+  }
+}
+
+:host-context(body[data-tema="light"]) .stat-card {
+  .value { color: #ffffff; }
+  .label { color: rgba(255,255,255,0.75); }
+
+  &.total {
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    border-color: #2563eb;
+  }
+
+  &.tenho {
+    background: linear-gradient(135deg, #22c55e, #15803d);
+    border-color: #16a34a;
+  }
+
+  &.faltam {
+    background: linear-gradient(135deg, #ef4444, #b91c1c);
+    border-color: #dc2626;
+  }
+
+  &.conclusao {
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+    border-color: #b45309;
+  }
+}
+
+.stat-icon {
+  font-size: 1.3rem;
+  margin-bottom: 2px;
+}
+
+.value {
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 1;
+}
+
+.label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: rgba(255, 255, 255, 0.55);
+  font-weight: 600;
+}
+
+.progress-wrapper {
+  padding: 4px 24px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.progress-bar {
+  height: 15px;
+  border-radius: 999px;
+  overflow: hidden;
+  background: var(--progress-bg);
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #facc15, #f97316);
+  border-radius: 999px;
+  transition: width 0.5s ease;
+}
+
+.progress-label {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  font-weight: 600;
+  text-align: right;
+}
