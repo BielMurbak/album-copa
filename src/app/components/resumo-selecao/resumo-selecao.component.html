@@ -1,0 +1,48 @@
+@if (nomeGrupo && progresso()) {
+  <div class="overlay" (click)="fecharModal()">
+    <div class="modal" (click)="$event.stopPropagation()">
+      <button class="btn-fechar" (click)="fecharModal()">✕</button>
+
+      <div class="modal-header">
+        <span class="modal-bandeira">{{ bandeira() }}</span>
+        <h2 class="modal-titulo">{{ nomeGrupo }}</h2>
+        @if (progresso()!.completo) {
+          <span class="selo-completo">✓ Completa</span>
+        }
+      </div>
+
+      <div class="modal-progresso">
+        <div class="modal-progresso-bar">
+          <div class="modal-progresso-fill" [style.width.%]="progresso()!.percentual"></div>
+        </div>
+        <span class="modal-progresso-texto">{{ progresso()!.obtidas }} de {{ progresso()!.total }} ({{ progresso()!.percentual }}%)</span>
+      </div>
+
+      @if (faltantes().length > 0) {
+        <div class="modal-secao">
+          <h3 class="modal-secao-titulo">Faltam ({{ faltantes().length }})</h3>
+          <div class="modal-chips">
+            @for (f of faltantes(); track f.codigo) {
+              <span class="chip chip-faltante">{{ f.codigo }}</span>
+            }
+          </div>
+        </div>
+      }
+
+      @if (repetidas().length > 0) {
+        <div class="modal-secao">
+          <h3 class="modal-secao-titulo">Repetidas ({{ repetidas().length }})</h3>
+          <div class="modal-chips">
+            @for (f of repetidas(); track f.codigo) {
+              <span class="chip chip-repetida">{{ f.codigo }} ×{{ f.quantidade }}</span>
+            }
+          </div>
+        </div>
+      }
+
+      @if (faltantes().length === 0 && repetidas().length === 0) {
+        <p class="modal-vazio">Você tem exatamente uma de cada figurinha dessa seleção. 👍</p>
+      }
+    </div>
+  </div>
+}

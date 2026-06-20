@@ -7,6 +7,7 @@
     </div>
   </div>
   <div class="topbar-actions">
+    <button class="trofeu-btn" (click)="abrirConquistas.emit()" title="Ranking e conquistas">🏆</button>
     <button class="reset-btn" (click)="resetar()" title="Resetar álbum">🗑️</button>
     <button class="tema-btn" (click)="temaToggle.emit()">
       {{ tema === 'dark' ? '☀️' : '🌙' }}

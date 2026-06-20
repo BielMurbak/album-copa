@@ -1,0 +1,29 @@
+<div class="confete-container" aria-hidden="true">
+  @for (c of confetes(); track c.id) {
+    <span
+      class="confete"
+      [style.left.%]="c.left"
+      [style.animation-delay.s]="c.delay"
+      [style.animation-duration.s]="c.duracao"
+      [style.background]="c.cor"
+      [style.transform]="'rotate(' + c.rotacaoInicial + 'deg)'">
+    </span>
+  }
+</div>
+
+@if (toastConquista(); as conquista) {
+  <div class="toast toast-conquista">
+    <span class="toast-icone">{{ conquista.icone }}</span>
+    <div class="toast-texto">
+      <span class="toast-titulo">Conquista desbloqueada!</span>
+      <span class="toast-subtitulo">{{ conquista.titulo }}</span>
+    </div>
+  </div>
+}
+
+@if (toastGrupo(); as grupo) {
+  <div class="toast toast-grupo">
+    <span class="toast-icone">✅</span>
+    <span class="toast-subtitulo">{{ grupo }} completa!</span>
+  </div>
+}

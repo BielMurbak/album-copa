@@ -1,0 +1,90 @@
+.confete-container {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 2000;
+  overflow: hidden;
+}
+
+.confete {
+  position: absolute;
+  top: -20px;
+  width: 9px;
+  height: 14px;
+  opacity: 0.9;
+  border-radius: 2px;
+  animation-name: cair;
+  animation-timing-function: cubic-bezier(0.4, 0.1, 0.6, 0.9);
+  animation-fill-mode: forwards;
+}
+
+@keyframes cair {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(105vh) rotate(540deg);
+    opacity: 0;
+  }
+}
+
+.toast {
+  position: fixed;
+  top: 84px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 18px;
+  background: var(--card-bg);
+  border: 1px solid var(--accent);
+  border-radius: 14px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.3);
+  z-index: 1500;
+  max-width: calc(100vw - 32px);
+  animation: toastIn 0.35s cubic-bezier(0.22, 1, 0.36, 1), toastOut 0.3s ease 3.4s forwards;
+}
+
+.toast-grupo {
+  animation: toastIn 0.35s cubic-bezier(0.22, 1, 0.36, 1), toastOut 0.3s ease 2.4s forwards;
+}
+
+.toast-icone {
+  font-size: 1.6rem;
+  flex-shrink: 0;
+}
+
+.toast-texto {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.toast-titulo {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+}
+
+.toast-subtitulo {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@keyframes toastIn {
+  from { opacity: 0; transform: translateX(-50%) translateY(-12px); }
+  to { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+
+@keyframes toastOut {
+  from { opacity: 1; }
+  to { opacity: 0; transform: translateX(-50%) translateY(-12px); }
+}

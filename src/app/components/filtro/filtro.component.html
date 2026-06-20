@@ -8,3 +8,20 @@
     </button>
   }
 </div>
+
+@if (service.filtro() === 'repetidas') {
+  <div class="acoes-filtro">
+    <span class="contador">{{ totalRepetidas }} repetida{{ totalRepetidas === 1 ? '' : 's' }}</span>
+    <button class="btn-copiar" (click)="copiarRepetidas()">
+      {{ copiado ? '✓ Copiado!' : '📋 Copiar Repetidas' }}
+    </button>
+  </div>
+}
+
+@if (service.filtro() === 'faltantes') {
+  <div class="acoes-filtro">
+    <button class="btn-copiar" (click)="copiarFaltantes()">
+      {{ copiado ? '✓ Copiado!' : '📋 Copiar Faltantes' }}
+    </button>
+  </div>
+}

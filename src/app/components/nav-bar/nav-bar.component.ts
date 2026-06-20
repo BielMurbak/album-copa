@@ -11,6 +11,7 @@ import * as Swal from 'sweetalert2';
 export class NavBarComponent {
   @Input() tema: 'dark' | 'light' = 'dark';
   @Output() temaToggle = new EventEmitter<void>();
+  @Output() abrirConquistas = new EventEmitter<void>();
 
   private service = inject(FigurinhasService);
 

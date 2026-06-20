@@ -1,10 +1,25 @@
 <div class="album">
   @for (grupo of grupos(); track grupo.nome) {
-    <div class="grupo">
-      <h2 class="grupo-titulo">{{ grupo.nome }}</h2>
+    <div class="grupo" [class.grupo-completo]="grupo.completo">
+      <button class="grupo-header" (click)="clicarGrupo(grupo.nome)">
+        <h2 class="grupo-titulo">
+          <span class="grupo-bandeira">{{ grupo.bandeira }}</span> {{ grupo.nome }}
+          @if (grupo.completo) {
+            <span class="grupo-check">✓</span>
+          }
+        </h2>
+        <span class="grupo-percentual">{{ grupo.percentual }}%</span>
+      </button>
+      <div class="grupo-progresso">
+        <div class="grupo-progresso-fill" [style.width.%]="grupo.percentual"></div>
+      </div>
       <div class="grupo-cards">
         @for (figurinha of grupo.itens; track figurinha.codigo) {
-          <div class="card" [class.obtida]="figurinha.quantidade > 0" (click)="figurinha.quantidade === 0 && incrementar(figurinha)">
+          <div
+            class="card"
+            [class.obtida]="figurinha.quantidade > 0"
+            [class.recem-marcada]="ultimaMarcada() === figurinha.codigo"
+            (click)="figurinha.quantidade === 0 && incrementar(figurinha)">
             @if (figurinha.quantidade > 1) {
               <span class="badge">×{{ figurinha.quantidade }}</span>
             }

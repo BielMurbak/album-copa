@@ -36,3 +36,40 @@
     color: var(--btn-text);
   }
 }
+
+.acoes-filtro {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 24px 16px;
+}
+
+.contador {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.btn-copiar {
+  padding: 7px 16px;
+  border-radius: 999px;
+  border: 1px solid var(--accent);
+  background: transparent;
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  white-space: nowrap;
+
+  &:hover {
+    background: var(--accent);
+    color: var(--btn-text);
+  }
+
+  @media (max-width: 480px) {
+    padding: 7px 12px;
+    font-size: 0.72rem;
+  }
+}

@@ -1,8 +1,12 @@
 import { Injectable } from '@angular/core';
 
 const DB_NAME = 'album-copa';
-const DB_VERSION = 1;
-const STORE = 'figurinhas';
+// IMPORTANTE: ao subir esta versão, o onupgradeneeded roda e cria APENAS
+// o que ainda não existe (novos object stores). Os dados que já estão no
+// store 'figurinhas' não são apagados nem tocados nesse processo.
+const DB_VERSION = 2;
+const STORE_FIGURINHAS = 'figurinhas';
+const STORE_CONQUISTAS = 'conquistas';
 
 @Injectable({ providedIn: 'root' })
 export class StorageService {
@@ -14,8 +18,11 @@ export class StorageService {
 
       req.onupgradeneeded = (e) => {
         const db = (e.target as IDBOpenDBRequest).result;
-        if (!db.objectStoreNames.contains(STORE)) {
-          db.createObjectStore(STORE, { keyPath: 'codigo' });
+        if (!db.objectStoreNames.contains(STORE_FIGURINHAS)) {
+          db.createObjectStore(STORE_FIGURINHAS, { keyPath: 'codigo' });
+        }
+        if (!db.objectStoreNames.contains(STORE_CONQUISTAS)) {
+          db.createObjectStore(STORE_CONQUISTAS, { keyPath: 'id' });
         }
       };
 
@@ -30,8 +37,8 @@ export class StorageService {
 
   salvarQuantidade(codigo: string, quantidade: number): Promise<void> {
     return new Promise((resolve, reject) => {
-      const tx = this.db!.transaction(STORE, 'readwrite');
-      tx.objectStore(STORE).put({ codigo, quantidade });
+      const tx = this.db!.transaction(STORE_FIGURINHAS, 'readwrite');
+      tx.objectStore(STORE_FIGURINHAS).put({ codigo, quantidade });
       tx.oncomplete = () => resolve();
       tx.onerror = () => reject(tx.error);
     });
@@ -39,8 +46,8 @@ export class StorageService {
 
   carregarTodos(): Promise<{ codigo: string; quantidade: number }[]> {
     return new Promise((resolve, reject) => {
-      const tx = this.db!.transaction(STORE, 'readonly');
-      const req = tx.objectStore(STORE).getAll();
+      const tx = this.db!.transaction(STORE_FIGURINHAS, 'readonly');
+      const req = tx.objectStore(STORE_FIGURINHAS).getAll();
       req.onsuccess = () => resolve(req.result);
       req.onerror = () => reject(req.error);
     });
@@ -48,10 +55,28 @@ export class StorageService {
 
   limparTodos(): Promise<void> {
     return new Promise((resolve, reject) => {
-      const tx = this.db!.transaction(STORE, 'readwrite');
-      tx.objectStore(STORE).clear();
+      const tx = this.db!.transaction(STORE_FIGURINHAS, 'readwrite');
+      tx.objectStore(STORE_FIGURINHAS).clear();
       tx.oncomplete = () => resolve();
       tx.onerror = () => reject(tx.error);
+    });
+  }
+
+  salvarConquista(id: string, desbloqueadaEm: number): Promise<void> {
+    return new Promise((resolve, reject) => {
+      const tx = this.db!.transaction(STORE_CONQUISTAS, 'readwrite');
+      tx.objectStore(STORE_CONQUISTAS).put({ id, desbloqueadaEm });
+      tx.oncomplete = () => resolve();
+      tx.onerror = () => reject(tx.error);
+    });
+  }
+
+  carregarConquistas(): Promise<{ id: string; desbloqueadaEm: number }[]> {
+    return new Promise((resolve, reject) => {
+      const tx = this.db!.transaction(STORE_CONQUISTAS, 'readonly');
+      const req = tx.objectStore(STORE_CONQUISTAS).getAll();
+      req.onsuccess = () => resolve(req.result);
+      req.onerror = () => reject(req.error);
     });
   }
 }

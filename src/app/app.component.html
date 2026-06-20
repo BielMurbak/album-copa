@@ -1,7 +1,11 @@
-<app-nav-bar [tema]="tema" (temaToggle)="toggleTema()"></app-nav-bar>
+<app-nav-bar [tema]="tema" (temaToggle)="toggleTema()" (abrirConquistas)="abrirConquistas()"></app-nav-bar>
 <div class="conteudo">
   <app-estatisticas></app-estatisticas>
   <app-pesquisa (pesquisaChange)="onPesquisa($event)"></app-pesquisa>
   <app-filtro></app-filtro>
-  <app-album [figurinhas]="service.figurinhasFiltradas()"></app-album>
+  <app-album [figurinhas]="service.figurinhasFiltradas()" (abrirResumo)="abrirResumoGrupo($event)"></app-album>
 </div>
+
+<app-resumo-selecao [nomeGrupo]="grupoSelecionado()" (fechar)="fecharResumoGrupo()"></app-resumo-selecao>
+<app-painel-conquistas [aberto]="conquistasAbertas()" (fechar)="fecharConquistas()"></app-painel-conquistas>
+<app-efeitos></app-efeitos>

@@ -1,0 +1,68 @@
+@if (aberto) {
+  <div class="overlay" (click)="fecharModal()">
+    <div class="modal" (click)="$event.stopPropagation()">
+      <button class="btn-fechar" (click)="fecharModal()">✕</button>
+
+      <div class="abas">
+        <button class="aba-btn" [class.ativa]="aba() === 'ranking'" (click)="setAba('ranking')">
+          🎯 Ranking
+        </button>
+        <button class="aba-btn" [class.ativa]="aba() === 'conquistas'" (click)="setAba('conquistas')">
+          🏆 Conquistas
+        </button>
+      </div>
+
+      @if (aba() === 'ranking') {
+        <div class="conteudo-aba">
+          <p class="aba-descricao">Seleções mais perto de fechar, na ordem em que vale a pena focar.</p>
+
+          @if (service.rankingProximos().length === 0) {
+            <p class="vazio">🎉 Parabéns! Todas as seleções já estão completas.</p>
+          } @else {
+            <div class="ranking-lista">
+              @for (item of service.rankingProximos(); track item.nome; let i = $index) {
+                <div class="ranking-item">
+                  <span class="ranking-posicao">{{ i + 1 }}º</span>
+                  <span class="ranking-bandeira">{{ item.bandeira }}</span>
+                  <div class="ranking-info">
+                    <span class="ranking-nome">{{ item.nome }}</span>
+                    <span class="ranking-detalhe">faltam {{ item.total - item.obtidas }} de {{ item.total }}</span>
+                  </div>
+                  <div class="ranking-progresso">
+                    <div class="ranking-progresso-bar">
+                      <div class="ranking-progresso-fill" [style.width.%]="item.percentual"></div>
+                    </div>
+                    <span class="ranking-percentual">{{ item.percentual }}%</span>
+                  </div>
+                </div>
+              }
+            </div>
+          }
+        </div>
+      }
+
+      @if (aba() === 'conquistas') {
+        <div class="conteudo-aba">
+          <p class="aba-descricao">
+            {{ totalDesbloqueadas() }} de {{ service.conquistas().length }} desbloqueadas
+          </p>
+
+          <div class="conquistas-grid">
+            @for (c of service.conquistas(); track c.id) {
+              <div class="conquista-card" [class.desbloqueada]="c.desbloqueada">
+                <span class="conquista-icone">{{ c.desbloqueada ? c.icone : '🔒' }}</span>
+                <div class="conquista-info">
+                  <span class="conquista-titulo">{{ c.titulo }}</span>
+                  <span class="conquista-descricao">{{ c.descricao }}</span>
+                  @if (c.desbloqueada) {
+                    <span class="conquista-data">Desbloqueada em {{ formatarData(c.desbloqueadaEm) }}</span>
+                  }
+                </div>
+              </div>
+            }
+          </div>
+        </div>
+      }
+    </div>
+  </div>
+}
